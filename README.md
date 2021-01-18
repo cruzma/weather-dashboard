@@ -2,7 +2,7 @@
 
 Build a weather app using Open weather
 
-![alt text](./assets/img/weather-dash.png)
+![alt text](./assets/img/weather-dash.PNG)
 
 ##User Story
 
