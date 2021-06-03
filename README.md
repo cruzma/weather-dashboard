@@ -1,16 +1,27 @@
 # weather-dashboard
+  
 
-Build a weather app using Open weather
+  ## Table of Contents
+  - [Description](#description)
+  - [Story](#Story)
+  - [Criteria](#Criteria)
+  - [Installation](#installation)
+  - [Questions](#questions)
+
+  ## Description
+  a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
 ![alt text](./assets/img/weather-dash.PNG)
 
-##User Story
+## Story
 
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
-##Criteria
+## Criteria
+
+```
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -23,8 +34,15 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-##Thoughts
+```
 
-Need to continue looking at best practices for JS to improve my coding.
+## Installation
+  install node and run 'npm init' within the terminal
+  
 
-Great practice in using API's.
+  ## License
+  Apache
+
+  ## Questions
+  @cruzma</br>
+
