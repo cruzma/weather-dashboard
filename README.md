@@ -11,7 +11,7 @@
 
   ## Description
   a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-  Simply Type in the City and today's weather along with a 5 day forecast will display on the screen.
+  Simply type in the City the today's weather will display along with a 5 day forecast.
 
 ![alt text](./assets/img/weather-dash.PNG)
 
@@ -47,5 +47,5 @@ THEN I am again presented with current and future conditions for that city
   Apache
 
   ## Questions
-  @cruzma</br>
+  [@cruzma](https://github.com/cruzma)</br>
 
