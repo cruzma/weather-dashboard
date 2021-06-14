@@ -1,6 +1,7 @@
 # weather-dashboard
   
-  website: https://cruzma.github.io/weather-dashboard/
+  ### Github: https://github.com/cruzma/weather-dashboard/
+  ### Website: https://cruzma.github.io/weather-dashboard/
 
   ## Table of Contents
   - [Description](#description)
