@@ -11,7 +11,7 @@
 
   ## Description
   a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-  Simply type in the City the today's weather will display along with a 5 day forecast.
+  Simply type in the City and today's weather will display along with a 5 day forecast.
 
 ![alt text](./assets/img/weather-dash.PNG)
 
@@ -40,11 +40,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Installation
-  install node and run 'npm init' within the terminal
-  
-
-  ## License
-  Apache
+  No need to install the app but if you would like to run it locally on your computer you will need to install node and run 'npm init' within the terminal
 
   ## Questions
   [@cruzma](https://github.com/cruzma)</br>
